@@ -10,15 +10,15 @@ This system collects images from traffic cameras, classifies the detected vehicl
 
 Features
 
-Scrapes live traffic images from Singapore’s LTA website.
-Classifies four main vehicle types: cars, buses, motorbikes, and trucks.
-Displays detection results with bounding boxes.
-Summarizes the count of each vehicle type for all processed images.
-Runs for a configurable duration, updating every 30 seconds.
+1. Scrapes live traffic images from Singapore’s LTA website.
+2. Classifies four main vehicle types: cars, buses, motorbikes, and trucks.
+3. Displays detection results with bounding boxes.
+4. Summarizes the count of each vehicle type for all processed images.
+5. Runs for a configurable duration, updating every 30 seconds.
 
 
 Future Enhancements
 
-Implement real-time dashboard visualization to monitor the vehicle count.
-Improve the object detection model's accuracy by fine-tuning on traffic-specific datasets.
-Add support for more vehicle types and pedestrian detection.
+1. Implement real-time dashboard visualization to monitor the vehicle count.
+2. Improve the object detection model's accuracy by fine-tuning on traffic-specific datasets.
+2. Add support for more vehicle types and pedestrian detection.
